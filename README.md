@@ -5,7 +5,7 @@
 
 #Instalacja: Sklonuj repozytorium: git clone https://github.com/KrzysztofK90/ML_klasyfikacja_projekt Przejdź do folderu z projektem: cd ML_klasyfikacja_projekt
 
-#Jak korzystać z algorytmu: Aby uruchomić algorytm, wykonaj poniższe kroki: W pliku HR Employee Attrition.csv umieść dane wejściowe, na których chcesz uruchomić algorytm. Uruchom plik projekt.ipynb.
+#Jak korzystać z algorytmu: Aby uruchomić algorytm, wykonaj poniższe kroki: W pliku HR Employee Attrition.csv umieść dane wejściowe, na których chcesz uruchomić algorytm. Uruchom plik ML_projekt_praktyczny_klasyfikacja.ipynb.
 
 #Autorzy i licencja: Projekt został stworzony przez: Krzysztof Kloc
 
